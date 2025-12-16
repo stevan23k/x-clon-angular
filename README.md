@@ -1,4 +1,8 @@
-# XClone
+# XClon
+
+## video
+https://github.com/user-attachments/assets/69f1af9d-4198-4be6-8cbf-4faaf4b1f997
+
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.1.
 
