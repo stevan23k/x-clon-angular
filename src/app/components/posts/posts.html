@@ -1,0 +1,35 @@
+<div class="flex justify-between">
+    <div class="mt-5 items-center border-b-2 border-gray-500 gap-2 h-120 w-full">
+        <div class="ml-10">
+            <app-profile name="Elon musk" userName="elonmusk" />
+        </div>
+        <div class="flex mt-5 ml-25">
+            <p>{{ description }}</p>
+        </div>
+        <div>
+            <img class="flex mt-5 ml-25 h-75 max-h-96 max-w-96 rounded-xl"
+                src="{{imageUrl}}"
+                alt="">
+        </div>
+        <div class=" text-xl flex justify-around mt-13">
+            <div>
+                <ng-icon name="octComment" />
+                10
+            </div>
+            <div>
+                <ng-icon name="octLoop" />
+                10
+            </div>
+            <div>
+                <ng-icon name="octHeartFill" />
+                120
+            </div>
+            <div>
+                <ng-icon name="octGraph" />
+                40
+            </div>
+
+        </div>
+
+    </div>
+</div>
